@@ -42,8 +42,10 @@ PRODUCT_PACKAGES += \
     AppDirectedSMSProxy \
     BuaContactAdapter \
     CNEService \
+    DMService \
     GCS \
     MotoSignatureApp \
+    SprintDM \
     TriggerEnroll \
     TriggerTrainingService \
     VZWAPNService
